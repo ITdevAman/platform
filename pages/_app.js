@@ -5,6 +5,7 @@ import {wrapper} from "../redux/reducer";
 import 'tailwindcss/tailwind.css'
 import '../styles/scss/index.scss';
 import "../styles/scss/footer.scss"
+import "../styles/scss/AccordionSection.scss"
 // import '../styles/globals.css'
 import '../styles/icons.css'
 import '/styles/scss/hero.scss'

@@ -4,7 +4,7 @@ export const languages = [
         key: 'RUSSIAN'
     },
     {
-        text:'Кыргызча',
+        text1:'Кыргызча',
         key: 'KYRGYZ'
     },
 ]
